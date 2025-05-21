@@ -1,7 +1,9 @@
 # Coffee_Shop
 
 ---
-![Image](https://github.com/user-attachments/assets/b73a89b5-77ad-48ab-89b4-1aaf736f051b)
+
+![Image](https://github.com/user-attachments/assets/7dd1f978-630d-486c-8983-5a5d01410be0)
+
 ---
 
 ## Project Context
