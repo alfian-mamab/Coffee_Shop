@@ -36,6 +36,32 @@ The process in this project including:
 
 ---
 
+## Business Problem
+The company is facing a significant waste issue, with:
+- 37.3 million units of products wasted in a month
+- 58.19% of daily stock not being sold
+- An estimated $115 million in financial loss, assuming a 6.8% margin (according to the Specialty Coffee Association)
+
+The business challenge is: <br/>
+*How can the company reduce product waste and improve operational efficiency while increasing sales performance?*
+
+---
+
+## Insights & Recommendations
+### Insight
+- All transactions were made by loyalty cardholders.
+- No promotions were run at the start of the month; they peaked mid-month.
+- Best-selling products are consistent across generations and outlets.
+- A large stock-sales gap is observed daily.
+- Waste levels are consistent per product and outlet over time.
+### Recommendations
+- Run targeted promotions just before closing hours to clear potential waste.
+- Promote high-performing products (e.g., Ouro Brasileo) in underperforming outlets like Astoria.
+- Using predictive analytics based on historical trends, the daily stock must be reduced to around 632,000/day (relative per product). 
+- Develop acquisition strategies to attract new customers beyond loyalty cardholders.
+
+---
+
 ## Tools Used
 - Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn)
 - SQL
