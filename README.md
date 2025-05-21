@@ -1,6 +1,8 @@
 # Coffee_Shop
 
 ---
+![Image](https://github.com/user-attachments/assets/b73a89b5-77ad-48ab-89b4-1aaf736f051b)
+---
 
 ## Project Context
 The company provides a sample dataset of their coffee sales for a specific period. The task is to analyze the data and uncover patterns, inconsistencies, and insights to support business decisions.
